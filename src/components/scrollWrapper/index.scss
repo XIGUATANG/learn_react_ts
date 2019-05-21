@@ -1,0 +1,11 @@
+.scroll-wrapper {
+  height: 100%;
+  overflow: hidden;
+
+  .scroll-item {
+    display: flex;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+  }
+}
