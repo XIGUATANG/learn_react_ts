@@ -24,7 +24,6 @@
     "babel-loader": "7",
     "babel-plugin-import": "^1.11.0",
     "cache-loader": "^3.0.0",
-    "chilk": "^1.0.0",
     "copy-webpack-plugin": "^5.0.3",
     "friendly-errors-webpack-plugin": "^1.7.0",
     "html-webpack-plugin": "^3.2.0",
